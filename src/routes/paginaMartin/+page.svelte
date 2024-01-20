@@ -1,5 +1,5 @@
 <h2>HOLA MUNDO</h2>
-<button href="/">Inicio</button>
+<a href="/">Inicio</a>
 
 <style>
   
