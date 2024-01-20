@@ -8,6 +8,7 @@
       <li><a href="/paginaRamiro">Ramiro</a></li>
       <li><a href="/paginaMartin">Papi Martin XD</a></li>
       <li><a href="/paginaEdionel">Edionel</a></li>
+      <li><a href="/paginaDaniel">Daniel</a></li>
     </ul>
 
   </div>

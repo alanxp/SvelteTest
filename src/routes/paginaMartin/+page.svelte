@@ -2,6 +2,7 @@
 <button href="/">Inicio</button>
 
 <style>
+  
 button{
   background: gray;
 }
